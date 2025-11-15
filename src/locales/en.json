@@ -1,0 +1,36 @@
+{
+    "header":{
+        "uzb":"Uzbekistan",
+        "world":"World",
+        "economy":"Economy",
+        "society":"Society",
+        "sports":"Sports",
+        "technology":"Technology",
+        "audio":"Audio"
+    },
+    "footer":{
+        "about_site":"About the site",
+        "RSS":"RSS",
+        "contact":"Contact",
+        "advertising":"Advertising",
+        "team":"Kun.uz Team",
+        "rights":"Copying, distributing, and using materials published on the \"KUN.UZ\" site in any form is only possible with the written consent of the editorial office.\nCertificate: No. 0987. Date of issue: 22.06.2015. Founder: \"WEB EXPERT\" LLC. Editorial address: 100043, Tashkent city, K. Yormatov street, house 12. Email address: info@kun.uz.\nThe opinions expressed in the articles published on the site belong to the authors and do not necessarily reflect the views of the Kun.uz editorial office.\nⓉ - this sign in articles and materials indicates that they are published based on commercial and advertising rights."
+    },
+    "notFound":{
+        "title":"404",
+        "heading":"Page Not Found!",
+        "description":"Unfortunately, the page you are looking for does not exist or may have been deleted.",
+        "home_button":"Go to Home",
+        "back_button":"Go Back",
+        "tip":"Tip: Check the URL address"
+    },
+    "homePage":{
+        "loading":"Loading...",
+        "error":"Error",
+        "more":"More",
+        "articles":"Articles",
+        "editor_choice":"Editor's Choice",
+        "latest_news":"Latest News",
+        "news":"News"
+    }
+}

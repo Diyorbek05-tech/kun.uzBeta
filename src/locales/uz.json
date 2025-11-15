@@ -1,0 +1,36 @@
+{
+    "header": {
+        "uzb": "O'zbekiston",
+        "world": "Jahon",
+        "economy": "Iqtisodiyot",
+        "society": "Jamiyat",
+        "sports": "Sport",
+        "technology": "Texnologiya",
+        "audio": "Audio"
+    },
+    "footer": {
+        "about_site": "Sayt haqida",
+        "RSS": "RSS",
+        "contact": "Aloqa",
+        "advertising": "Reklama",
+        "team": "Kun.uz jamoasi",
+        "rights": "\"KUN.UZ\" saytida e'lon qilingan materiallardan nusxa koʻchirish, tarqatish va boshqa shakllarda foydalanish faqat tahririyat yozma roziligi bilan amalga oshirilishi mumkin.\nGuvohnoma: №0987. Berilgan sanasi: 22.06.2015-yil. Muassis: \"WEB EXPERT\" MCHJ. Tahririyat manzili: 100043, Toshkent shahri, K. Yormatov koʻchasi, 12-uy. Elektron manzil: info@kun.uz.\nSaytda eʼlon qilinayotgan mualliflik maqolalarida keltirilgan fikrlar muallifga tegishli va ular Kun.uz tahririyati nuqtayi nazarini ifoda etmasligi mumkin.\nⓉ - maqola va materiallarda qo'yilgan mazkur belgi ularning tijorat va reklama huquqlari asosida eʼlon qilinganligini bildiradi."
+    },
+    "notFound": {
+        "title": "404",
+        "heading": "Sahifa Topilmadi!",
+        "description": "Afsuski, siz izlayotgan sahifa mavjud emas yoki o'chirilgan bo'lishi mumkin.",
+        "home_button": "Bosh sahifaga",
+        "back_button": "Orqaga qaytish",
+        "tip": "Maslahat: URL manzilini tekshirib ko'ring"
+    },
+    "homePage": {
+        "loading": "Yuklanmoqda...",
+        "error": "Xatolik",
+        "more": "Ko'proq",
+        "articles": "Maqolalar",
+        "editor_choice": "Muharrir tanlovi",
+        "latest_news": "So'nggi yangiliklar",
+        "news": "Yangiliklar"
+    }
+}
