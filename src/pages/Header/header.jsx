@@ -65,8 +65,8 @@ const Header = () => {
                     <NavLink to="/" className="hover:text-blue-600 font-bold transition-colors">
                         {t('header.audio')}
                     </NavLink>
-                    <NavLink to="/saved" className="hover:text-blue-600 font-bold transition-colors">
-                    <i className="fa-solid fa-bookmark">{t('header.saved')}</i>
+                    <NavLink to="/saved" className="hover:text-blue-600 flex items-center gap-1 font-bold transition-colors">
+                    <i className="fa-solid fa-bookmark"></i>{t('header.saved')}
                     </NavLink>
                 </div>
                 <select
