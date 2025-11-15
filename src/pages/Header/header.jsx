@@ -40,7 +40,9 @@ const Header = () => {
             )}
 
             <nav className='bg-white flex flex-col lg:flex-row items-center justify-between my-4 p-4 mx-15 rounded-lg shadow-sm border border-gray-200'>
-                <img src={logo} alt="Logo" className="mb-4 lg:mb-0 cursor-pointer" />
+                <NavLink to="/">
+                    <img src={logo} alt="Logo" className="mb-4 lg:mb-0 cursor-pointer" />
+                </NavLink>
                 <div className='flex flex-wrap justify-center gap-4 lg:gap-6 mb-4 lg:mb-0'>
                     <NavLink to="/" className="hover:text-blue-600 font-bold transition-colors">
                         {t('header.uzb')}
@@ -63,6 +65,9 @@ const Header = () => {
                     <NavLink to="/" className="hover:text-blue-600 font-bold transition-colors">
                         {t('header.audio')}
                     </NavLink>
+                    <NavLink to="/saved" className="hover:text-blue-600 font-bold transition-colors">
+                    <i className="fa-solid fa-bookmark">{t('header.saved')}</i>
+                    </NavLink>
                 </div>
                 <select
                     className="bg-transparent border border-gray-300 rounded px-3 py-1 outline-none cursor-pointer hover:border-blue-500 transition-colors focus:border-blue-600"
@@ -74,8 +79,7 @@ const Header = () => {
                     <option value="en">English</option>
                 </select>
             </nav>
-
-
+            
         </div>
     );
 };

@@ -8,7 +8,7 @@ export default function NotFound404() {
   const navigate = useNavigate();
 
   return (
-    <div className="min-h-screen bg-[#EDEDED] flex items-center justify-center p-4">
+    <div className=" bg-[#EDEDED] flex items-center justify-center p-4">
       <div className="bg-white rounded-lg shadow-md border border-gray-200 p-8 max-w-lg w-full text-center">
         <div className="mb-8">
           <h1 className="text-8xl font-black text-gray-900 mb-4">
@@ -22,11 +22,6 @@ export default function NotFound404() {
           </p>
         </div>
 
-        <div className="mb-8 flex justify-center">
-          <div className="text-6xl">
-            🔍
-          </div>
-        </div>
 
         <div className="flex gap-4 flex-col sm:flex-row justify-center">
           <button
@@ -46,7 +41,7 @@ export default function NotFound404() {
         </div>
 
         <div className="mt-8 text-gray-500 text-sm">
-          <p>💡 {t('notFound.tip')}</p>
+          <p> {t('notFound.tip')}</p>
         </div>
       </div>
     </div>

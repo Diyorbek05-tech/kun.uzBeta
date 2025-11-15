@@ -6,7 +6,8 @@
         "society":"Society",
         "sports":"Sports",
         "technology":"Technology",
-        "audio":"Audio"
+        "audio":"Audio",
+        "saved":"Saved"
     },
     "footer":{
         "about_site":"About the site",
@@ -32,5 +33,21 @@
         "editor_choice":"Editor's Choice",
         "latest_news":"Latest News",
         "news":"News"
+    },
+    "detailPage":{
+        "views":"views",
+        "likes":"likes",
+        "dislikes":"dislikes"
+    },
+    "savedPage":{
+        "no_saved_posts":"No saved posts",
+        "no_saved_description":"You haven't saved any posts yet.",
+        "browse_posts":"Browse Posts",
+        "saved_posts":"Saved Posts",
+        "you_have":"You have",
+        "saved":"saved",
+        "post":"post",
+        "posts":"posts",
+        "post_id":"Post ID"
     }
 }

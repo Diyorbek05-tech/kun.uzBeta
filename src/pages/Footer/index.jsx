@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-8 mb-8">
           
        
-          <div className="flex-shrink-0">
+          <div className="shrink-0">
             <img src={logo} alt="footer-logo" className="w-24 h-auto" />
           </div>
 

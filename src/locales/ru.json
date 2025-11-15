@@ -6,7 +6,8 @@
         "society":"общество",
         "sports":"спорт",
         "technology":"технологии",
-        "audio":"аудио"
+        "audio":"аудио",
+        "saved":"Сохраненные"
     },
     "footer":{
         "about_site":"О сайте",
@@ -32,5 +33,21 @@
         "editor_choice":"Выбор редакции",
         "latest_news":"Последние новости",
         "news":"Новости"
+    },
+    "detailPage":{
+        "views":"просмотры",
+        "likes":"лайки",
+        "dislikes":"дизлайки"
+    },
+    "savedPage":{
+        "no_saved_posts":"Нет сохраненных статей",
+        "no_saved_description":"Вы еще не сохранили ни одной статьи.",
+        "browse_posts":"Просмотреть статьи",
+        "saved_posts":"Сохраненные статьи",
+        "you_have":"У вас",
+        "saved":"сохранено",
+        "post":"статья",
+        "posts":"статей",
+        "post_id":"ID статьи"
     }
 }

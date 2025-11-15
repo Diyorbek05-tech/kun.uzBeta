@@ -6,7 +6,8 @@
         "society": "Jamiyat",
         "sports": "Sport",
         "technology": "Texnologiya",
-        "audio": "Audio"
+        "audio": "Audio",
+        "saved": "Saqlangan"
     },
     "footer": {
         "about_site": "Sayt haqida",
@@ -32,5 +33,21 @@
         "editor_choice": "Muharrir tanlovi",
         "latest_news": "So'nggi yangiliklar",
         "news": "Yangiliklar"
+    },
+    "detailPage": {
+        "views": "ko'rishlar",
+        "likes": "yoqtirishlar",
+        "dislikes": "yoqtirmasliklar"
+    },
+    "savedPage": {
+        "no_saved_posts": "Saqlangan maqolalar yo'q",
+        "no_saved_description": "Siz hali hech qanday maqola saqlamadingiz.",
+        "browse_posts": "Maqolalarni ko'rish",
+        "saved_posts": "Saqlangan maqolalar",
+        "you_have": "Sizda",
+        "saved": "ta saqlangan",
+        "post": "maqola",
+        "posts": "maqolalar",
+        "post_id": "Maqola ID"
     }
 }
